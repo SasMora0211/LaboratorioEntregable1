@@ -1,0 +1,73 @@
+body 
+        {
+      font-family: 'Italic';
+      margin: 0;
+      padding: 0;
+      background-color: #ffffff;
+        }
+
+h1
+
+
+{
+    text-align: center;
+    color: white;
+    font: size 40px;
+}     
+
+h2
+{
+font-size: 30px;
+text-align: center;
+}
+
+
+header
+{
+background-color: gray;
+color: white;
+text-align: center;
+}
+
+footer
+{
+    background-color: gray;
+    text-align: center;
+    font: size 18px;
+    color: white;
+    padding: 5px;
+    margin-top: 15px;
+}
+
+dd{
+    text-align: justify;
+}
+
+dt{
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+}
+
+table{
+padding: 5px;
+color: black;
+text-align:justify ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-size: 10px;
+}
+
+td{
+    background-color:aquamarine;
+}
+
+th{
+    background-color:beige;
+}
+
+form{
+    padding: 10px;
+    
+}
+
+
+
